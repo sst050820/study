@@ -1,0 +1,17 @@
+{
+  "pdf": "D:\\study\\数学一\\01-基础讲义\\27张宇《线代9讲》强化.pdf",
+  "bytes": 155382359,
+  "sha256": "b11fd7212e36ffc1e0c1210499db1452e0bef397daeaaa0b8fb5aca35adbf746",
+  "pdf_pages": 121,
+  "body_pdf_start": 12,
+  "body_pdf_end": 120,
+  "body_pages": 109,
+  "printed_start": 1,
+  "printed_end": 109,
+  "page_offset": 11,
+  "render_scale": 2.1,
+  "rendered_images": 121,
+  "extra_detail_images": [
+    "PDF_048_公式核实.png"
+  ]
+}

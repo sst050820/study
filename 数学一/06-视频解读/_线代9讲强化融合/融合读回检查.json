@@ -1,0 +1,61 @@
+{
+  "backup": "D:\\study\\数学一\\_讲义修订备份\\线性代数_强化9讲融合_20261010_183322",
+  "backup_hash_matches": true,
+  "results": [
+    {
+      "file": "01-行列式.md",
+      "lines": 890,
+      "math_fences": 146,
+      "code_fences": 2,
+      "sha256": "d3aefbcbec6b318c079df4cfb1933b842dbca4d44f738826b3c3592f2403d5f6",
+      "changed_original_lines": 2,
+      "links": 5
+    },
+    {
+      "file": "02-矩阵.md",
+      "lines": 1328,
+      "math_fences": 214,
+      "code_fences": 2,
+      "sha256": "eef60773c2c940b024cd02b4bc8f6540bcb0ee1c96805b3d43cf51369223a39d",
+      "changed_original_lines": 0,
+      "links": 8
+    },
+    {
+      "file": "03-向量组.md",
+      "lines": 881,
+      "math_fences": 168,
+      "code_fences": 2,
+      "sha256": "32e23db82b60d3f4a6f0887c9af6d81d828202fade961b19d41f8ccde75ad063",
+      "changed_original_lines": 1,
+      "links": 10
+    },
+    {
+      "file": "04-线性方程组.md",
+      "lines": 1078,
+      "math_fences": 198,
+      "code_fences": 2,
+      "sha256": "13bdd32bba72ea0c65b6d374feca413b66fca9da0b193ff7703737d5bb35b7dc",
+      "changed_original_lines": 2,
+      "links": 10
+    },
+    {
+      "file": "05-特征值与特征向量.md",
+      "lines": 1648,
+      "math_fences": 338,
+      "code_fences": 2,
+      "sha256": "416a9ef1c3626974d6cacf4d61902da70f6b548ce7b6dd7973d1befccb19c977",
+      "changed_original_lines": 4,
+      "links": 23
+    },
+    {
+      "file": "06-二次型.md",
+      "lines": 2107,
+      "math_fences": 330,
+      "code_fences": 2,
+      "sha256": "4d4b8dd09df6020e4f38f2ff621247b8387109bf29863d9ea0903ff43e64fed7",
+      "changed_original_lines": 1,
+      "links": 29
+    }
+  ],
+  "errors": []
+}
