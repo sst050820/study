@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "7908b086003a5b52",
+    "type": "split",
+    "children": [
+      {
+        "id": "47eeada6f9bb208f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "446b332e00a07956",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e905fb742087a421",
+    "type": "split",
+    "children": [
+      {
+        "id": "f743062d4cd00ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42ffde1301ec62e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "47d291322de921b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a81c35f71ce505d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.14483261108398
+  },
+  "right": {
+    "id": "9eaee889c927e50e",
+    "type": "split",
+    "children": [
+      {
+        "id": "30437c7e61e97ee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "412942a156867d39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "政治/03-2027考研政治每日1小时计划.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "1e14995cd38d0333",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "408/02-计算机组成原理/新建文件夹/02 1.0_你好，我是计算机组成原理.mp4",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b5c116f24d249421",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "48693d4800c75c9c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "adb44901e249febd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "408/02-计算机组成原理/新建文件夹/02 1.0_你好，我是计算机组成原理.mp4",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "42ffde1301ec62e6",
+  "lastOpenFiles": [
+    "数学一/07-讲义/线性代数/05-特征值与特征向量.md",
+    "学习计划/电脑目录审计/13939-20261025-161852/deliver/审计结论与阅读说明.md",
+    "数学一/07-讲义/线性代数/03-向量组.md",
+    "数学一/07-讲义/线性代数/02-矩阵.md",
+    "408/02-计算机组成原理/02-知识结构文档/第4章-指令系统.md",
+    "408/02-计算机组成原理/02-知识结构文档/第3章-存储系统.md",
+    "政治/腿姐/27腿姐《冲刺背诵手册》完整版.pdf",
+    "数学一/07-讲义/线性代数/聊天原文/00-目录与来源.md",
+    "数学一/07-讲义/线性代数/聊天原文/一/25-习题1.4-循环型行列式只剩两项.md",
+    "数学一/07-讲义/线性代数/聊天原文/一/28-习题1.7-保留参数因子避免漏解.md",
+    "数学一/07-讲义/线性代数/聊天原文/一/29-习题1.8-移动列与交换次数.md",
+    "数学一/07-讲义/线性代数/聊天原文/一/30-习题1.9-线性变换写成矩阵方程.md",
+    "数学一/07-讲义/线性代数/聊天原文/一/05-例1.5与例1.6-X形与制造范德蒙德.md",
+    "数学一/07-讲义/线性代数/聊天原文/一/04-例1.3与例1.4-相似行相减与行和相等.md",
+    "数学一/07-讲义/线性代数/聊天原文/一/03-四组基本型与例1.2制造零.md",
+    "数学一/07-讲义/线性代数/聊天原文/一/02-逆序数、余子式与展开定理.md",
+    "数学一/07-讲义/线性代数/聊天原文/一/01-行列式的本质与基本性质.md",
+    "政治/腿姐/2027考研政治--考点清单--腿姐陆寓丰.pdf",
+    "政治/肖1000/27版肖1000试题分册.pdf",
+    "政治/肖1000/27版肖1000答案解析册.pdf",
+    "数学一/07-讲义/线性代数/01-行列式.md",
+    "学习计划/04-全部资料覆盖审查与待选清单.md",
+    "政治/04-每日学习/2026-10-09-第1天-马原导论.md",
+    "学习计划/01-2026-10-09至12-20每日任务表.md",
+    "学习计划/02-第二轮完整知识点与验收清单.md",
+    "学习计划/03-资料索引与使用限制.md",
+    "学习计划/00-2027考研全科学习总计划.md",
+    "政治/03-2027考研政治每日1小时计划.md",
+    "政治/腿姐/2027考研政治--核心重点必背500句-赠品-腿姐陆寓丰.pdf",
+    "政治/肖1000",
+    "政治/腿姐/腿姐背诵手册逐日计划.pdf",
+    "政治/腿姐",
+    "政治/00-说明.md",
+    "学习计划",
+    "新建文件夹",
+    "政治/02-2027考研政治开学清单与资料索引.md",
+    "数学一/pdf_pages/page_10.png",
+    "数学一/06-视频解读/_线代视频第9讲/时间线复核/02_007.jpg",
+    "数学一/06-视频解读/_线代视频第9讲/时间线复核/02_006.jpg",
+    "数学一/06-视频解读/_线代视频第9讲/时间线复核/02_005.jpg",
+    "数学一/06-视频解读/_线代视频第9讲/时间线复核/02_004.jpg",
+    "数学一/06-视频解读/_线代视频第9讲/时间线复核/02_003.jpg",
+    "数学一/06-视频解读/_线代视频第9讲/时间线复核/02_002.jpg",
+    "数学一/06-视频解读/_线代视频第9讲/时间线复核/02_001.jpg",
+    "数学一/06-视频解读/_线代视频第9讲/时间线复核/01_007.jpg",
+    "数学一/06-视频解读/_线代视频第9讲/时间线复核/01_006.jpg"
+  ]
+}

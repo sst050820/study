@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "all_pdf_paths_accounted": 215,
+  "all_video_paths_verified": 720,
+  "candidate_groups": 35,
+  "daily_grammar_tasks": 71,
+  "english_mock_days_with_time_reallocation": 9,
+  "math_politics_tasks_preserved": true,
+  "knowledge_checklist_sha256": "5703713cb0e8e83075693a04c936ec400f41bc212183c89a01dadd5092d2838f",
+  "audit_report_lines": 282,
+  "errors": []
+}

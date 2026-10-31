@@ -1,0 +1,74 @@
+[
+  {
+    "file": "第1章-计算机系统概述.md",
+    "bytes": 32007,
+    "characters": 14388,
+    "parts": 10,
+    "numbered_subsections": 48,
+    "backup_hash_ok": true,
+    "issues": []
+  },
+  {
+    "file": "第2章-数据的表示和运算.md",
+    "bytes": 102064,
+    "characters": 51145,
+    "parts": 12,
+    "numbered_subsections": 114,
+    "backup_hash_ok": true,
+    "issues": []
+  },
+  {
+    "file": "第3章-存储系统.md",
+    "bytes": 97951,
+    "characters": 44306,
+    "parts": 13,
+    "numbered_subsections": 91,
+    "backup_hash_ok": true,
+    "issues": []
+  },
+  {
+    "file": "第4章-指令系统.md",
+    "bytes": 61562,
+    "characters": 29038,
+    "parts": 13,
+    "numbered_subsections": 75,
+    "backup_hash_ok": true,
+    "issues": []
+  },
+  {
+    "file": "第5章-中央处理器.md",
+    "bytes": 83094,
+    "characters": 37749,
+    "parts": 13,
+    "numbered_subsections": 107,
+    "backup_hash_ok": true,
+    "issues": []
+  },
+  {
+    "file": "第6章-总线.md",
+    "bytes": 27803,
+    "characters": 11822,
+    "parts": 9,
+    "numbered_subsections": 40,
+    "backup_hash_ok": true,
+    "issues": []
+  },
+  {
+    "file": "第7章-输入输出系统.md",
+    "bytes": 37930,
+    "characters": 16975,
+    "parts": 11,
+    "numbered_subsections": 56,
+    "backup_hash_ok": true,
+    "issues": []
+  },
+  {
+    "file": "组成原理目录.md",
+    "bytes": 9532,
+    "characters": 4232,
+    "parts": 0,
+    "numbered_subsections": 6,
+    "backup_hash_ok": true,
+    "issues": []
+  }
+]

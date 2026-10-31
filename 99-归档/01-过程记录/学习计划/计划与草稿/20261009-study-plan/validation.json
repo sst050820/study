@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "files": {
+    "00-2027考研全科学习总计划.md": {
+      "lines": 244,
+      "chars": 10364,
+      "checkboxes": 5,
+      "sha256": "8c341bb60ce1231a43b1f150b1420f574ed9483be29256c6d7be2e8646a8a231"
+    },
+    "01-2026-10-09至12-20每日任务表.md": {
+      "lines": 699,
+      "chars": 22321,
+      "checkboxes": 289,
+      "sha256": "0be409cb2f557824b534d4ee37ccf2f82edda49e68ec8053f83a02054f6f1cd6"
+    },
+    "02-第二轮完整知识点与验收清单.md": {
+      "lines": 588,
+      "chars": 21158,
+      "checkboxes": 231,
+      "sha256": "5703713cb0e8e83075693a04c936ec400f41bc212183c89a01dadd5092d2838f"
+    },
+    "03-资料索引与使用限制.md": {
+      "lines": 102,
+      "chars": 4637,
+      "checkboxes": 0,
+      "sha256": "6ee144771a650b7c3d2728cdcc5c97c2dd9b440abff4b3eba297e0ed2204509a"
+    }
+  },
+  "days": 73,
+  "study_days": 71,
+  "exam_days": 2,
+  "math_annual_sets": 18,
+  "408_annual_sets": 18,
+  "english_annual_sets": 9,
+  "sentence_remaining": 64,
+  "reading_remaining": 51,
+  "errors": [],
+  "warnings": []
+}

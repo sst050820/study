@@ -1,0 +1,572 @@
+[
+  {
+    "file": "02 1.0_你好，我是计算机组成原理.mp4",
+    "number": "02",
+    "chapter": 1,
+    "existing_transcript": null
+  },
+  {
+    "file": "03 1.1_计算机发展历程.mp4",
+    "number": "03",
+    "chapter": 1,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\03.txt"
+  },
+  {
+    "file": "04 1.2.1+1.2.2_计算机硬件的基本组成.mp4",
+    "number": "04",
+    "chapter": 1,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\04.txt"
+  },
+  {
+    "file": "05 1.2.2（补充）_各个硬件的工作原理.mp4",
+    "number": "05",
+    "chapter": 1,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\05.txt"
+  },
+  {
+    "file": "06 1.2.3 计算机软件.mp4",
+    "number": "06",
+    "chapter": 1,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\06.txt"
+  },
+  {
+    "file": "07 1.2.4 计算机系统的层次结构.mp4",
+    "number": "07",
+    "chapter": 1,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\07.txt"
+  },
+  {
+    "file": "08 1.2.5 计算机系统的工作原理.mp4",
+    "number": "08",
+    "chapter": 1,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\08.txt"
+  },
+  {
+    "file": "09 1.3 计算机的性能指标.mp4",
+    "number": "09",
+    "chapter": 1,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\09.txt"
+  },
+  {
+    "file": "10 2.1.1 进位计数制.mp4",
+    "number": "10",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\10.txt"
+  },
+  {
+    "file": "11 2.1.2+2.1.3 定点数的编码表示.mp4",
+    "number": "11",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\11.txt"
+  },
+  {
+    "file": "12 2.1.2+2.1.3（拓展）各种码的作用.mp4",
+    "number": "12",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\12.txt"
+  },
+  {
+    "file": "13 2.1.4_1 C语言中的整数类型及类型转换.mp4",
+    "number": "13",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\13.txt"
+  },
+  {
+    "file": "14 2.1.4_2 零扩展、符号扩展.mp4",
+    "number": "14",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\14.txt"
+  },
+  {
+    "file": "15 2.2.0_1 逻辑门电路（数字电路基础补充）.mp4",
+    "number": "15",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\15.txt"
+  },
+  {
+    "file": "16 2.2.0_2 多路选择器、三态门.mp4",
+    "number": "16",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\16.txt"
+  },
+  {
+    "file": "17 2.2.1_1 加法器.mp4",
+    "number": "17",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\17.txt"
+  },
+  {
+    "file": "18 2.2.1_3 算数逻辑单元ALU.mp4",
+    "number": "18",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\18.txt"
+  },
+  {
+    "file": "19 2.2.2 定点数的移位运算.mp4",
+    "number": "19",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\19.txt"
+  },
+  {
+    "file": "20 2.2.3_1 定点数的加减运算.mp4",
+    "number": "20",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\20.txt"
+  },
+  {
+    "file": "21 2.2.3_2 无符号数的加减运算.mp4",
+    "number": "21",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\21.txt"
+  },
+  {
+    "file": "22 2.2.3_3 补码加减运算电路.mp4",
+    "number": "22",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\22.txt"
+  },
+  {
+    "file": "23 2.2.4_0 乘法除法运算复习说明（书课适配说明）.mp4",
+    "number": "23",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\23.txt"
+  },
+  {
+    "file": "24 2.2.4_1 无符号整数的乘法运算原理.mp4",
+    "number": "24",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\24.txt"
+  },
+  {
+    "file": "25 2.2.4_2 带符号整数的乘法运算原理.mp4",
+    "number": "25",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\25.txt"
+  },
+  {
+    "file": "26 2.2.4_3 计算机实现乘法运算的三种方式.mp4",
+    "number": "26",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\26.txt"
+  },
+  {
+    "file": "27 2.2.4_4 无符号整数的除法运算原理.mp4",
+    "number": "27",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\27.txt"
+  },
+  {
+    "file": "28 2.2.4_5 带符号整数（补码）的除法运算原理.mp4",
+    "number": "28",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\28.txt"
+  },
+  {
+    "file": "29 2.3.1_1 浮点数的表示_IEEE 754.mp4",
+    "number": "29",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\29.txt"
+  },
+  {
+    "file": "30 2.3.1_2 浮点数的表示_IEEE 754（例题训练）.mp4",
+    "number": "30",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\30.txt"
+  },
+  {
+    "file": "31 2.3.1_3 浮点数的表示范围、几种特殊状态（上）.mp4",
+    "number": "31",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\31.txt"
+  },
+  {
+    "file": "32 2.3.1_4 浮点数的表示范围、几种特殊状态（下）.mp4",
+    "number": "32",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\32.txt"
+  },
+  {
+    "file": "33 2.3.2_1 浮点数的加减运算（类比十进制科学计数法）.mp4",
+    "number": "33",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\33.txt"
+  },
+  {
+    "file": "34 2.3.2_2 浮点数的加减运算（例题训练）.mp4",
+    "number": "34",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\34.txt"
+  },
+  {
+    "file": "35 2.3.2_3 浮点数的加减运算（舍入问题）.mp4",
+    "number": "35",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\35.txt"
+  },
+  {
+    "file": "36 2.3.2_4 浮点数的加减运算（溢出问题）.mp4",
+    "number": "36",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\36.txt"
+  },
+  {
+    "file": "37 2.3.4 数据的存储和排列.mp4",
+    "number": "37",
+    "chapter": 2,
+    "existing_transcript": "D:\\study\\408\\02-计算机组成原理\\视频转写记录\\37.txt"
+  },
+  {
+    "file": "38 3.1 存储系统基本概念.mp4",
+    "number": "38",
+    "chapter": 3,
+    "existing_transcript": null
+  },
+  {
+    "file": "39 3.2.0+3.2.3 主存储器的基本组成.mp4",
+    "number": "39",
+    "chapter": 3,
+    "existing_transcript": null
+  },
+  {
+    "file": "40 3.2.1 SRAM和DRAM.mp4",
+    "number": "40",
+    "chapter": 3,
+    "existing_transcript": null
+  },
+  {
+    "file": "41 3.2.2 只读存储器ROM.mp4",
+    "number": "41",
+    "chapter": 3,
+    "existing_transcript": null
+  },
+  {
+    "file": "42 3.2.4 双端口RAM和多模块存储器.mp4",
+    "number": "42",
+    "chapter": 3,
+    "existing_transcript": null
+  },
+  {
+    "file": "43 3.3 主存储器与CPU的连接.mp4",
+    "number": "43",
+    "chapter": 3,
+    "existing_transcript": null
+  },
+  {
+    "file": "44 3.4.1 磁盘存储器.mp4",
+    "number": "44",
+    "chapter": 3,
+    "existing_transcript": null
+  },
+  {
+    "file": "45 3.4.2 固态硬盘SSD.mp4",
+    "number": "45",
+    "chapter": 3,
+    "existing_transcript": null
+  },
+  {
+    "file": "46 3.5.1+3.5.2 Cache的基本原理.mp4",
+    "number": "46",
+    "chapter": 3,
+    "existing_transcript": null
+  },
+  {
+    "file": "47 3.5.3 Cache和主存的映射方式.mp4",
+    "number": "47",
+    "chapter": 3,
+    "existing_transcript": null
+  },
+  {
+    "file": "48 3.5.4 Cache替换算法.mp4",
+    "number": "48",
+    "chapter": 3,
+    "existing_transcript": null
+  },
+  {
+    "file": "49 3.5.5 Cache写策略.mp4",
+    "number": "49",
+    "chapter": 3,
+    "existing_transcript": null
+  },
+  {
+    "file": "50 4.1.1+2+3 指令的基本格式.mp4",
+    "number": "50",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "51 4.1.4 扩展操作码指令格式.mp4",
+    "number": "51",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "52 4.2.1 指令寻址.mp4",
+    "number": "52",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "53 4.2.2_1 数据寻址1.mp4",
+    "number": "53",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "54 4.2.2_2 数据寻址2_偏移寻址.mp4",
+    "number": "54",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "55 4.2.2_3 数据寻址3_堆栈寻址.mp4",
+    "number": "55",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "56 4.3.1_1 高级语言与机器级代码之间的对应.mp4",
+    "number": "56",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "57 4.3.1_2 常用的x86汇编指令.mp4",
+    "number": "57",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "58 4.3.1_3 AT&T格式和Intel格式.mp4",
+    "number": "58",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "59 4.3.2 选择语句的机器级表示.mp4",
+    "number": "59",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "60 4.3.3 循环语句的机器级表示.mp4",
+    "number": "60",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "61 4.3.4_1 Call和ret指令(函数调用的机器级表示).mp4",
+    "number": "61",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "62 4.3.4_2 如何访问栈帧(函数调用的机器级表示).mp4",
+    "number": "62",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "63 4.3.4_3 如何切换栈帧(函数调用的机器级表示).mp4",
+    "number": "63",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "64 4.3.4_4 如何传递参数和返回值(函数调用的机器级表示).mp4",
+    "number": "64",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "65 4.4 CISC和RISC.mp4",
+    "number": "65",
+    "chapter": 4,
+    "existing_transcript": null
+  },
+  {
+    "file": "65-1 5.0_回忆过去.mp4",
+    "number": "65-1",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "66 5.1 CPU的功能和基本结构.mp4",
+    "number": "66",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "67 5.2 指令执行过程.mp4",
+    "number": "67",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "68 5.3_1 数据通路-单总线结构.mp4",
+    "number": "68",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "69 5.3_2 数据通路-专用通路结构.mp4",
+    "number": "69",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "70 5.4.1 硬布线控制器的设计 (1).mp4",
+    "number": "70",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "71 5.4.2 微程序控制器的基本原理.mp4",
+    "number": "71",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "72 5.4.3 微指令的设计.mp4",
+    "number": "72",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "73 5.4.4 微程序控制单元的设计.mp4",
+    "number": "73",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "74 5.6_1 指令流水线的基本概念和性能指标.mp4",
+    "number": "74",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "75 5.6_2 指令流水线的影响因素和分类.mp4",
+    "number": "75",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "76 5.6_3 五段式指令流水线.mp4",
+    "number": "76",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "77 5.7_1_多处理器基本概念.mp4",
+    "number": "77",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "78 5.7_2_硬件多线程.mp4",
+    "number": "78",
+    "chapter": 5,
+    "existing_transcript": null
+  },
+  {
+    "file": "79 6.1.1~6.1.3 总线概述.mp4",
+    "number": "79",
+    "chapter": 6,
+    "existing_transcript": null
+  },
+  {
+    "file": "80 6.1.5 总线的性能指标.mp4",
+    "number": "80",
+    "chapter": 6,
+    "existing_transcript": null
+  },
+  {
+    "file": "81 6.2.0 拓展：总线仲裁（408大纲已删，简单了解即可）.mp4",
+    "number": "81",
+    "chapter": 6,
+    "existing_transcript": null
+  },
+  {
+    "file": "82 6.2.1+6.2.3 总线操作和定时.mp4",
+    "number": "82",
+    "chapter": 6,
+    "existing_transcript": null
+  },
+  {
+    "file": "83 6.3 拓展：总线标准（408大纲已删，简单了解即可）.mp4",
+    "number": "83",
+    "chapter": 6,
+    "existing_transcript": null
+  },
+  {
+    "file": "84 7.1.1+7.1.2 输入输出系统和IO控制方式.mp4",
+    "number": "84",
+    "chapter": 7,
+    "existing_transcript": null
+  },
+  {
+    "file": "85 7.1.3 外部设备.mp4",
+    "number": "85",
+    "chapter": 7,
+    "existing_transcript": null
+  },
+  {
+    "file": "86 7.2 IO接口.mp4",
+    "number": "86",
+    "chapter": 7,
+    "existing_transcript": null
+  },
+  {
+    "file": "87 7.3.1 程序查询方式.mp4",
+    "number": "87",
+    "chapter": 7,
+    "existing_transcript": null
+  },
+  {
+    "file": "88 7.3.2_1 中断的作用和原理.mp4",
+    "number": "88",
+    "chapter": 7,
+    "existing_transcript": null
+  },
+  {
+    "file": "89 7.3.2_2 多重中断.mp4",
+    "number": "89",
+    "chapter": 7,
+    "existing_transcript": null
+  },
+  {
+    "file": "90 7.3.2_3 程序中断方式.mp4",
+    "number": "90",
+    "chapter": 7,
+    "existing_transcript": null
+  },
+  {
+    "file": "91 7.3.3 DMA方式.mp4",
+    "number": "91",
+    "chapter": 7,
+    "existing_transcript": null
+  },
+  {
+    "file": "92 2.3.1_1_浮点数的表示.mp4",
+    "number": "92",
+    "chapter": 2,
+    "existing_transcript": null
+  },
+  {
+    "file": "93 2.3.1_2_IEEE_754.mp4",
+    "number": "93",
+    "chapter": 2,
+    "existing_transcript": null
+  },
+  {
+    "file": "94 2.3.2_浮点数的加减运算.mp4",
+    "number": "94",
+    "chapter": 2,
+    "existing_transcript": null
+  },
+  {
+    "file": "95 2.3.4_数据的存储和排列.mp4",
+    "number": "95",
+    "chapter": 2,
+    "existing_transcript": null
+  }
+]
